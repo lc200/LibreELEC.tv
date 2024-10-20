@@ -113,3 +113,7 @@ evdev:input:b0005v2B54p1600*
 # ZTERCR21 remote
 evdev:input:b0005v0508p0110*
  KEYBOARD_KEY_c0041=enter
+
+# BT-250 remote
+evdev:input:b0005v1D5ApC080e0000*
+ KEYBOARD_KEY_c0041=enter
